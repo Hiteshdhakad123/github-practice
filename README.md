@@ -1,2 +1,2 @@
-# github-prctice
+# github-practise
 my first program
